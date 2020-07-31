@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" style="border: 20px" width="250" height="270" src="https://github.com/preethamsridhar/preethamsridhar/blob/master/assets/myPicutre.png">
+<img align="left" style="border-radius: 25px" width="250" height="270" src="https://github.com/preethamsridhar/preethamsridhar/blob/master/assets/myPicutre.png">
 I'm an Indian Software Engineer working at [Jellyfish Technologies India Pvt. Limited](https://www.jellyfishtechnologies.com/), Noida India.
 Currently, I work on ReactJS and could not love ❤️ it more. 
 
