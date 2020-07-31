@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm an Indian Software Engineer working in [Jellyfish Technologies India Pvt. Limited](https://www.jellyfishtechnologies.com/), Noida India.
+<img align="right" width="100" height="100" src="./assets/myPicture.png">
+
