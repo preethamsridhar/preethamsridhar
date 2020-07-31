@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm an Indian Software Engineer working in [Jellyfish Technologies India Pvt. Limited](https://www.jellyfishtechnologies.com/), Noida India.
-<img align="right" width="300" height="300" src="https://github.com/preethamsridhar/preethamsridhar/blob/master/assets/myPicutre.png">
+
+<img align="right" width="250" height="270" src="https://github.com/preethamsridhar/preethamsridhar/blob/master/assets/myPicutre.png">
+
+Currently, I work on ReactJS and could not love it more.
+
+
+
+
 
